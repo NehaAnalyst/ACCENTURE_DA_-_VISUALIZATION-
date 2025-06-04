@@ -86,8 +86,10 @@ Task - 4
 Present to the Client:
 Present your PowerPoint presentation to the client and deliver the insights of your analysis
 
+
 Certificate:
 Certificate of Completion
+![accenture_DAandVisualisation](https://github.com/user-attachments/assets/02cc4d54-6007-4e2a-a3e9-7652ab3f2e74)
 
 Connect with Me:
 Follow me on LinkedIn for more data analysis projects and insights: LinkedIn Profile : https://www.linkedin.com/in/nehasharma098/
